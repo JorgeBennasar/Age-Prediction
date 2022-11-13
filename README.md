@@ -6,12 +6,12 @@ Dataset: https://www.kaggle.com/datasets/nipunarora8/age-gender-and-ethnicity-fa
 
 Me:
 
-![image_1](https://user-images.githubusercontent.com/60068344/201470683-bf8ca159-f98c-40c0-a99a-9f7d6df23b32.png)
+![image_1](https://user-images.githubusercontent.com/60068344/201513798-33599b86-bf93-483b-aa8c-5b186542f744.png)
 
-Error Histogram:
+Confusion Matrix:
 
-![image_2](https://user-images.githubusercontent.com/60068344/201470680-d9906dea-d95f-4e53-8c0d-ebf09a079870.png)
+![image_2](https://user-images.githubusercontent.com/60068344/201513799-a3d787e5-0c30-4f93-bfa4-b8f0b122cf1d.png)
 
-Sample Images:
+Some test results:
 
-![image_3](https://user-images.githubusercontent.com/60068344/201470688-61be9579-0989-4525-b8f1-78327b68a937.png)
+![image_3](https://user-images.githubusercontent.com/60068344/201513803-a09743a9-e0c8-4ed1-963a-320fff9cd5e1.png)
